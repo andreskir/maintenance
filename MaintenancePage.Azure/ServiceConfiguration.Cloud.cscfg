@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="MaintenancePage.Azure" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="3" osVersion="*" schemaVersion="2012-10.1.8">
+  <Role name="MaintenancePage">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=portalvhds78tm27drjzd7c;AccountKey=mvgBcCBxB0siulQXSjOIwwcM8IKE6rEg/5NxQllTYy9eG3Cg4tMzZKH7K2AhNGgokQ097LCEykkBQCCLsFd0ag==" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

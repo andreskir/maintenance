@@ -1,0 +1,2 @@
+C:\Users\Federico\Desktop\MaintenancePage\MaintenancePage\MaintenancePage.Azure\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Federico\Desktop\MaintenancePage\MaintenancePage\MaintenancePage.Azure\bin\Debug\ServiceDefinition.csdef
